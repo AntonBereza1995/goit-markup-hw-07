@@ -21,8 +21,6 @@
   }
 }
 
-// modal
-
 .modal {
   position: absolute;
   top: 50%;
@@ -79,8 +77,6 @@
   }
 }
 
-// modal__btn-close
-
 .modal__btn-close {
   position: absolute;
   top: 0;
@@ -117,8 +113,6 @@
   }
 }
 
-// .modal-form
-
 .modal-form {
   display: flex;
   flex-direction: column;
@@ -147,8 +141,6 @@
     fill: $accept-color;
   }
 }
-
-// .modal-input-wrapper
 
 .modal-input-wrapper {
   display: block;

@@ -1,5 +1,5 @@
 @charset "UTF-8";
-.page {
+.body {
   background-color: #ffffff;
   font-family: Roboto, sans-serif;
 }
@@ -101,12 +101,12 @@ img {
   color: #2196f3;
 }
 
-.site-nav__link-is-active {
+.site-nav__link-is-curret {
   position: relative;
   color: #2196f3;
 }
 
-.site-nav__link-is-active::after {
+.site-nav__link-is-curret::after {
   content: "";
   position: absolute;
   left: 0;
